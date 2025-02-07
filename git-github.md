@@ -1,3 +1,7 @@
+在使用 github 时，需要先[配置 token](https://github.com/orgs/community/discussions/80843)
+
+
+
 ### Git 的使用
 
 Git与GitHub的协作流程可分为日常开发的基础操作和团队协作进阶操作，以下是配置正确后的标准工作流指南：

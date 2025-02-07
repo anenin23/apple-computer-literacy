@@ -412,7 +412,7 @@ brew install blackhole-64ch	# 系统音频软导流工具，用 OBS 做直播播
 
 ```bash
 brew install sublime-text	# 轻量级、速度快、功能丰富的纯文本编辑器
-brew install visual-studio-code # 微软出品的代码编辑器（基于 Google Atom）
+brew install --cask visual-studio-code # 微软出品的代码编辑器（基于 Google Atom）
 brew install typora	# MacOS 上最好最方便的 Markdown 编辑器
 ```
 
